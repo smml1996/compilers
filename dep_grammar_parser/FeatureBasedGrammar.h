@@ -1,0 +1,14 @@
+//
+// Created by Stefanie Muroya lei on 10/19/19.
+//
+
+#ifndef DEP_GRAMMAR_PARSER_FEATUREBASEDGRAMMAR_H
+#define DEP_GRAMMAR_PARSER_FEATUREBASEDGRAMMAR_H
+
+
+class FeatureBasedGrammar {
+
+};
+
+
+#endif //DEP_GRAMMAR_PARSER_FEATUREBASEDGRAMMAR_H
